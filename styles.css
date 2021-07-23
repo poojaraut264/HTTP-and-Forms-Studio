@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color:white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 300px;
+    margin-left: 300px;
+}
+
+#q {
+    width:30%;    
+}
+
+#submit {
+    width: 150px;
+    border-width:10px;
+}
